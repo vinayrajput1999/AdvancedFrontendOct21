@@ -1,5 +1,5 @@
 /**
- * A closure is a combination on function bundled together
+ * A closure is a combination of function bundled together
  * In other words, a closure gives you access to an outer function scope
  * Closure is used to make methods and variables private
  */
